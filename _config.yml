@@ -1,7 +1,7 @@
 name: torchseer
 favicon: null
-layout_spectrum: 0.09992
-typography_spectrum: 0.43016
+layout_spectrum: 0.41096
+typography_spectrum: 0.60742
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#110d0a'
+    - '#5f4934'
+    - '#837256'
+    - '#cfa985'
+    - '#eae2cf'
   brandStrength: 0.3277599895372987
   lightness: 0.26142140617594123
   saturation: 0.9016313669271767
